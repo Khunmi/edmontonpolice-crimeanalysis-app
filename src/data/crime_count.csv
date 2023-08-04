@@ -1,0 +1,222 @@
+fid,postal,school_phone,program,@computed_region_mnf4_kaez,@computed_region_5jki_au6x,epsb_ward,school_email,point_y,distict_centre,school_website,point_x,childcare,grades,city_ward,@computed_region_izdr_ja4x,address,school_name,school_code,@computed_region_7ccj_gre3,@computed_region_ecxu_fw7u,NUMPOINTS
+1,T6J7J4,(780) 439-9314,,2,6,EPSB WARD H,georgepnicholson@epsb.ca,53.44275285,,http://georgepnicholson.epsb.ca,-113.5254553,Yes,K to Gr 6,WARD 09,8,1120 - 113 Street NW,George P. Nicholson School,1004,309,108,60
+2,T6H0L3,(780) 435-7140,,2,5,EPSB WARD F,mckee@epsb.ca,53.48768626,BLA,http://mckee.epsb.ca/,-113.5088307,Yes,K to Gr 6,WARD 10,6,10725 - 51 Avenue NW,McKee School,7195,26,19,776
+3,T5Y2P7,(780) 475-1760,PAP,7,3,EPSB WARD B,jdbracco@epsb.ca,53.603521,BAO/OPP,http://jdbracco.epsb.ca,-113.3921018,No,Gr 7-9,WARD 04,2,3150 - 139 Avenue NW,John D Bracco School,7573,144,184,406
+4,T6T0J4,(780) 468-4361,,4,7,EPSB WARD G,ablairmcpherson@epsb.ca,53.46964159,,http://ablairmcpherson.epsb.ca/,-113.3618197,No,K to Gr 9,WARD 12,7,430 Tamarack Green NW,A. Blair McPherson School,1458,161,40,139
+5,T5Y6E5,(780) 472-6029,COG/FDK,7,3,EPSB WARD B,horsehill@epsb.ca,53.65676027,,http://horsehill.epsb.ca,-113.343731,Yes,K to Gr 6,WARD 04,2,19355 Meridian Street NW,Horse Hill School,7567,369,234,2
+6,T5C1Y2,(780) 476-2344,FDK,10,3,EPSB WARD B,princeton@epsb.ca,53.58976591,PKP/INT,http://princeton.epsb.ca,-113.4596977,Yes,K to Gr 6,WARD 07,2,7720 - 130 Avenue NW,Princeton School,7187,242,156,384
+7,T5Z2Z1,(780) 456-6980,,6,2,EPSB WARD A,lagolindo@epsb.ca,53.63575864,BAO,http://lagolindo.epsb.ca/,-113.4874774,No,K to Gr 6,WARD 03,1,17303 - 95 Street NW,Lago Lindo School,7277,299,190,165
+8,T6G1T5,(780) 433-3924,,11,5,EPSB WARD F,windsor@epsb.ca,53.52393016,,http://windsorpark.epsb.ca/,-113.5348681,Yes,K to Gr 6,WARD 08,6,8720 - 118 Street NW,Windsor Park School,7182,176,146,382
+9,T6H2V5,(780) 434-6756,BGE/COG,2,5,EPSB WARD F,allendale@epsb.ca,53.5012013,INT,http://allendale.epsb.ca,-113.5037485,No,Gr 7-9,WARD 10,6,6415 - 106 Street NW,Allendale School,7500,16,10,325
+10,T6J4R7,(780) 413-0263,,2,6,EPSB WARD F,lsbluequill@epsb.ca,53.46109479,,http://outreach.epsb.ca,-113.529967,No,Gr 10-12,WARD 10,6,284 Saddleback Road NW,Learning Store at Blue Quill,7724,140,171,188
+11,T6K4A3,(780) 462-5031,FDK,3,7,EPSB WARD I,tipaskan@epsb.ca,53.46302322,PKP/INT,http://tipaskan.epsb.ca,-113.4589805,No,K to Gr 6,WARD 11,9,1200 Lakewood Road North NW,Tipaskan School,7270,54,56,302
+12,T6H3M1,(780) 434-8402,FIM,2,5,EPSB WARD F,avalon@epsb.ca,53.49185464,BLA,http://avalon.epsb.ca/,-113.5244202,No,Gr 7-9,WARD 10,6,5425 - 114 Street NW,Avalon Junior School,7550,51,197,487
+13,T5Y0J5,(780) 408-7942,,7,2,EPSB WARD B,ecsne@epsb.ca,53.62032929,,http://edmchristian.net,-113.4318172,No,K to Gr 9,WARD 04,2,5940 - 159 Avenue NW,Edmonton Christian Northeast School,1282,279,183,131
+14,T5P2X4,(780) 483-6476,,1,1,EPSB WARD E,meadowlarkchristian@epsb.ca,53.53670881,,http://k-9christian.com,-113.5933341,No,K to Gr 9,WARD 01,5,9825-158 Street NW,Meadowlark Christian School,7931,31,186,847
+15,T6L5X2,(780) 461-0616,,4,7,EPSB WARD G,minchau@epsb.ca,53.46771456,BLA,http://minchau.epsb.ca,-113.4083636,No,K to Gr 6,WARD 12,7,3615 Millwoods Road East NW,Minchau School,7274,44,65,95
+16,T6J3Z9,(780) 437-0010,BGE,2,6,EPSB WARD F,rideaupark@epsb.ca,53.47860442,INT,http://rideaupark.epsb.ca,-113.5055133,Yes,K to Gr 6,WARD 10,6,10605 - 42 Avenue NW,Rideau Park School,7232,142,20,413
+17,T6K2C7,(780) 462-5125,,3,7,EPSB WARD I,satoo@epsb.ca,53.4468606,BLA,http://satoo.epsb.ca,-113.4605512,No,K to Gr 6,WARD 11,9,8515 - 17 Avenue NW,Satoo School,7235,118,34,131
+18,T5C3A9,(780) 476-3969,FIM,10,3,EPSB WARD B,delwood@epsb.ca,53.59642459,INT,http://delwood.epsb.ca,-113.4553592,Yes,K to Gr 6,WARD 07,2,7315 Delwood Road NW,Delwood School,7194,237,164,351
+19,T5P0W3,(780) 484-6631,FDK,1,1,EPSB WARD C,brightview@epsb.ca,53.5490519,BLA/OPP,http://brightview.epsb.ca,-113.5876974,No,K to Gr 6,WARD 01,3,15425 - 106 Avenue NW,Brightview School,7504,84,188,822
+20,T6J1A6,(780) 438-9103,,2,6,EPSB WARD F,dsmackenzie@epsb.ca,53.47603525,BLA/CHA/STR,http://dsmackenzie.epsb.ca,-113.5060803,No,Gr 7-9,WARD 10,6,4020 - 106 Street NW,D S MacKenzie School,7522,142,20,350
+21,T5P0S3,(780) 489-5300,LOG,1,1,EPSB WARD C,britannia@epsb.ca,53.54674264,BLA/CLS,http://britannia.epsb.ca,-113.5979116,Yes,Gr 7-9,WARD 01,3,16018 - 104 Avenue NW,Britannia School,7551,30,87,763
+22,T6R2H7,(780) 435-1577,,12,6,EPSB WARD F,earlbuxton@epsb.ca,53.47402818,,http://ebuxton.epsb.ca,-113.5825196,Yes,K to Gr 6,WARD 09,6,250 Rhatigan Road East NW,Earl Buxton School,7278,71,64,50
+23,T5X4X4,(780) 456-6727,,6,2,EPSB WARD A,baturyn@epsb.ca,53.63284177,STR,http://baturyn.epsb.ca,-113.50615,Yes,K to Gr 6,WARD 03,1,10603 - 172 Avenue NW,Baturyn School,7247,248,140,162
+24,T6L3A9,(780) 463-1854,,3,7,EPSB WARD I,sakaw@epsb.ca,53.44076554,PKP/OPP,http://sakaw.epsb.ca,-113.4278545,No,K to Gr 6,WARD 11,9,5730 - 11A Avenue NW,Sakaw School,7251,251,14,163
+25,T5E3P6,(780) 475-1737,BAR,10,2,EPSB WARD A,killarney@epsb.ca,53.59124923,CLS/OPP,http://killarney.epsb.ca,-113.4818679,Yes,Gr 7-9,WARD 07,1,13110 - 91 Street NW,Killarney School,7516,38,152,621
+26,T6H0V7,(780) 434-3588,FIM,2,5,EPSB WARD F,lendrum@epsb.ca,53.49090538,,http://lendrum.epsb.ca,-113.5222181,Yes,K to Gr 6,WARD 10,6,11330 - 54 Avenue NW,Lendrum School,7185,51,197,496
+27,T6J4T6,(780) 437-0366,ISA,2,6,EPSB WARD F,sweetgrass@epsb.ca,53.46333612,,http://sweetgrass.epsb.ca,-113.5278023,No,K to Gr 6,WARD 10,6,11351 - 31 Avenue NW,Sweet Grass School,7243,273,171,174
+28,T6R0M8,(587) 489-4702,,12,6,EPSB WARD H,Nelliecarlson@epsb.ca,53.4421455,INT,http://nelliecarlson.epsb.ca/,-113.5571497,Yes,K to Gr 9,WARD 09,8,4132 MacTaggart Drive NW,Nellie Carlson School,1936,331,89,31
+29,T5A3R5,(780) 476-7953,FDK,7,3,EPSB WARD B,sifton@epsb.ca,53.59426469,PKP/BLA,http://sifton.epsb.ca,-113.4081184,No,K to Gr 6,WARD 04,2,4305 - 134 Avenue NW,Sifton School,7238,204,199,1000
+30,T6M2Z7,(780) 444-1922,,8,4,EPSB WARD E,bessienichols@epsb.ca,53.48713954,,http://bessienichols.epsb.ca/,-113.6716111,Yes,K to Gr 9,WARD 05,5,189 Hemingway Road NW,Bessie Nichols School,1577,361,5,82
+31,T5L2W3,(780) 455-6171,BCH,5,1,EPSB WARD C,dovercourt@epsb.ca,53.57363673,INT,http://dovercourt.epsb.ca,-113.5614806,Yes,K to Gr 6,WARD 02,3,13910 - 122 Avenue NW,Dovercourt School,7121,49,215,208
+32,T5C1C2,(780) 476-0775,FIM,6,3,EPSB WARD B,jafife@epsb.ca,53.61161737,LIT,http://jafife.epsb.ca,-113.460791,Yes,K to Gr 6,WARD 03,2,15004 - 76 Street NW,J A Fife School,7188,167,166,187
+33,T6K3J3,(780) 462-2627,APL,3,7,EPSB WARD G,millwoodsch@epsb.ca,53.47537016,,http://mcs.epsb.ca,-113.4623005,No,K to Gr 12,WARD 11,7,8704 Millwoods Road NW,Millwoods Christian School,7909,225,240,194
+34,T5N3L5,(780) 408-7948,,9,1,EPSB WARD C,ecswest@epsb.ca,53.55557298,,http://edmchristian.net,-113.5688308,No,K to Gr 9,WARD 06,3,14345 McQueen Road NW,Edmonton Christian West School,1283,7,195,274
+35,T5N2V3,(780) 455-0832,,9,1,EPSB WARD C,grovenor@epsb.ca,53.54502168,PKP/BLA,http://grovenor.epsb.ca,-113.5684595,Yes,K to Gr 6,WARD 06,3,10345 - 144 Street NW,Grovenor School,7129,29,196,368
+36,T5T2B1,(780) 487-0727,,8,4,EPSB WARD E,callingwood@epsb.ca,53.50870508,PKP/BLA,http://callingwood.epsb.ca,-113.6228502,No,K to Gr 6,WARD 05,5,17335 - 76 Avenue NW,Callingwood Elementary School,7237,60,97,364
+37,T5M0J2,(780) 452-8350,,5,1,EPSB WARD C,westmount@epsb.ca,53.55968294,OPP,http://westmountschool.ca,-113.5468843,No,Gr 7-9,WARD 02,3,11124 - 130 Street NW,Westmount School,7544,104,48,555
+38,T5A4L4,(780) 476-3361,,7,3,EPSB WARD B,overlanders@epsb.ca,53.58130675,BLA/OPP,http://overlanders.epsb.ca,-113.3891756,No,K to Gr 6,WARD 04,2,1150 Hermitage Road NW,Overlanders School,7229,244,29,223
+39,T5E1J2,(780) 475-3565,,5,2,EPSB WARD A,instsrvs@epsb.ca,53.59409803,,,-113.4960072,No,K to Gr 12,WARD 02,1,10205 - 134 Avenue NW,Rosecrest School,7729,37,224,670
+40,T6L5T7,(780) 462-5261,,4,7,EPSB WARD I,weinlos@epsb.ca,53.46011093,BLA/OPP,http://weinlos.epsb.ca,-113.416301,Yes,K to Gr 6,WARD 12,9,2911 - 48 Street NW,Weinlos School,7265,77,65,346
+41,T6J5J8,(780) 438-3874,,2,6,EPSB WARD H,keheewin@epsb.ca,53.44904586,INT,http://keheewin.epsb.ca,-113.5015004,No,K to Gr 6,WARD 10,8,1910 - 105 Street NW,Keheewin School,7254,163,109,296
+42,T5E5R8,(780) 457-3467,,10,2,EPSB WARD A,lslondonderry@epsb.ca,53.59791294,,http://outreach.epsb.ca,-113.4888542,No,Gr 10-12,WARD 07,1,2014 9499-137 Avenue NW,Learning Store at Londonderry,7722,12,157,616
+43,T6L5C3,(780) 463-8108,,3,7,EPSB WARD G,hillview@epsb.ca,53.46771114,PKP,http://hillview.epsb.ca,-113.4281363,No,K to Gr 6,WARD 11,7,355 Woodvale Road East NW,Hillview School,7255,21,57,216
+44,T6K3Y5,(780) 463-7627,BCH,3,7,EPSB WARD I,meyonohk@epsb.ca,53.4552352,,http://meyonohk.epsb.ca,-113.4540417,Yes,K to Gr 6,WARD 11,9,1850 Lakewood Road South NW,Meyonohk School,7249,52,238,313
+45,T5R3V8,(780) 489-6749,SCA,8,4,EPSB WARD E,elmwood@epsb.ca,53.51634289,PKP/ISP,http://elmwood.epsb.ca,-113.604687,Yes,K to Gr 6,WARD 05,5,16325 - 83 Avenue NW,Elmwood School,7204,9,98,263
+46,T5E6R8,(780) 456-9482,,5,2,EPSB WARD A,griesbach@epsb.ca,53.6075656,,http://griesbach.epsb.ca,-113.4964642,No,K to Gr 9,WARD 02,1,320 Griesbach Road NW,Major General Griesbach School,7575,151,226,295
+47,T5G0B7,(780) 735-7987,CAS,5,1,EPSB WARD C,glenrose@epsb.ca,53.55935443,,https://epsb.ca/programs/specializedprograms/hospitalstaysandmedicalneeds/,-113.4960639,No,K to Gr 12,WARD 02,3,10230 - 111 Avenue NW,Hospital School Campuses,7701,4,151,1574
+48,T6K1Y9,(780) 462-3270,COG,3,7,EPSB WARD G,mtweddle@epsb.ca,53.47730894,,http://malcolmtweddle.epsb.ca,-113.457652,No,K to Gr 6,WARD 11,7,2340 Millbourne Road West NW,Malcolm Tweddle School,7223,225,240,217
+49,T6H0M6,(780) 434-3160,,2,5,EPSB WARD F,lansdowne@epsb.ca,53.48766994,PKP,http://lansdowne.epsb.ca,-113.5455119,Yes,K to Gr 6,WARD 10,6,12323 - 51 Avenue NW,Lansdowne School,7180,263,185,62
+50,T5W1Z5,(780) 477-7310,FDK,10,3,EPSB WARD D,abbott@epsb.ca,53.5743841,BLA/STR,http://abbott.epsb.ca,-113.3927561,Yes,K to Gr 6,WARD 07,4,12045 - 34 Street NW,Abbott School,7100,243,177,407
+51,T6K0C7,(780) 462-7121,SKC,3,7,EPSB WARD G,gmartin@epsb.ca,53.46925429,LIT/OPP,http://gmartin.epsb.ca,-113.4566641,No,K to Gr 6,WARD 11,7,8210 - 36 Avenue NW,Grace Martin School,7220,40,239,335
+52,T5H1A8,(780) 426-3010,IBP/IBM/IB,9,5,EPSB WARD C,victoria@epsb.ca,53.5533424,,http://victoria.epsb.ca/,-113.4953462,Yes,K to Gr 12,WARD 06,3,10210 - 108 Avenue NW,Victoria School,7055,181,220,2722
+53,T5G3K2,(780) 424-1270,AMK,5,1,EPSB WARD C,amiskwaciy@epsb.ca,53.57096758,,http://amiskwaciy.epsb.ca/,-113.5232033,No,Gr 7-12,WARD 02,3,101 Airport Road NW,Amiskwaciy Academy,484,209,221,724
+54,T6X1A3,(780) 988-5556,,4,7,EPSB WARD I,ellerslie@epsb.ca,53.42801029,,http://ellerslie.epsb.ca,-113.4417622,No,K to Gr 9,WARD 12,9,521-66 Street SW,Ellerslie Campus,7565,213,21,164
+55,T5T4C1,(780) 483-1864,,1,4,EPSB WARD C,laperle@epsb.ca,53.53330944,STR,http://laperle.epsb.ca,-113.6458264,Yes,K to Gr 6,WARD 01,3,18715 - 97A Avenue NW,LaPerle School,7267,132,159,195
+56,T6V1V4,(587) 489-4712,,5,1,EPSB WARD A,hilwiehamdon@epsb.ca,53.6074839,INT,http://hilwiehamdon.epsb.ca,-113.558242,Yes,K to Gr 9,WARD 02,1,13815 - Cumberland Road NW,Hilwie Hamdon School,1931,378,216,178
+57,T5T0G9,(780) 487-2061,,8,4,EPSB WARD C,thorncliffe@epsb.ca,53.51598611,BLA/LIT,http://thorncliffe.epsb.ca,-113.6229807,Yes,K to Gr 6,WARD 05,3,8215 - 175 Street NW,Thorncliffe School,7216,10,96,530
+58,T5P3N5,(780) 489-4600,FDK/LOG,1,1,EPSB WARD C,youngstown@epsb.ca,53.54580766,PKP,http://youngstown.epsb.ca,-113.603005,Yes,K to Gr 6,WARD 01,3,10330 - 163 Street NW,Youngstown School,7213,30,87,751
+59,T6W1P4,(780) 437-1341,,12,6,EPSB WARD H,johnnybright@epsb.ca,53.41928146,,http://johnnybright.epsb.ca/,-113.5348805,No,K to Gr 9,WARD 09,8,1331 Rutherford Road NW,Johnny Bright School,1455,168,117,110
+60,T5E5L2,(780) 454-4313,BAR/FDK,5,1,EPSB WARD A,calder@epsb.ca,53.58865768,BLA,http://calder.epsb.ca/,-113.525571,No,K to Gr 6,WARD 02,1,12950 - 118 Street NW,Calder School,7113,70,104,254
+61,T6L2R2,(780) 450-1532,,4,7,EPSB WARD I,dalygrove@epsb.ca,53.44986355,INT,http://dalygrove.epsb.ca,-113.3998572,No,K to Gr 6,WARD 12,9,1888 - 37 Street NW,Daly Grove School,7264,265,7,191
+62,T6E2H5,(780) 433-0627,ACA/IB,11,5,EPSB WARD F,oldscona@epsb.ca,53.51977537,,http://oldscona.epsb.ca,-113.5019757,No,Gr 10-12,WARD 08,6,10523 - 84 Avenue NW,Old Scona School,7066,315,9,1470
+63,T5P3H4,(780) 489-4300,FDK,1,1,EPSB WARD E,glendale@epsb.ca,53.53637374,INT,http://glendale.epsb.ca,-113.5995895,No,K to Gr 6,WARD 01,5,9812 - 161 Street NW,Glendale School,7205,31,186,715
+64,T6J4A6,(780) 437-1080,,2,6,EPSB WARD F,steinhauer@epsb.ca,53.46466265,PKP/BLA/LIT,http://steinhauer.epsb.ca,-113.5063456,Yes,K to Gr 6,WARD 10,6,10717 - 32A Avenue NW,Steinhauer School,7241,274,173,180
+65,T6L5X1,(780) 450-6536,,4,7,EPSB WARD I,bisset@epsb.ca,53.4606054,PKP,http://bisset.epsb.ca,-113.3989634,No,K to Gr 6,WARD 12,9,3020 - 37 Street NW,Bisset School,7276,108,65,147
+66,T5L1W3,(780) 455-2728,,5,1,EPSB WARD A,mcarthur@epsb.ca,53.59765751,BLA/PKP/STR,http://mcarthur.epsb.ca,-113.5514371,No,K to Gr 6,WARD 02,1,13535 - 134 Street NW,McArthur School,7143,86,50,337
+67,T6H3J9,(780) 434-8503,BCH,2,5,EPSB WARD F,parkallen@epsb.ca,53.50420538,OPP,http://parkallen.epsb.ca,-113.5193463,Yes,K to Gr 6,WARD 10,6,6703 - 112 Street NW,Parkallen School,7529,17,18,206
+68,T6W0V9,(780) 944-2829,,12,6,EPSB WARD H,constabledanielwoodall@epsb.ca,53.43954046,,http://constabledanielwoodall.epsb.ca,-113.6172979,Yes,K to Gr 6,WARD 09,8,315 Windermere Road NW,Constable Daniel Woodall School,1924,327,77,200
+69,T5W1Y7,(587) 489-4714,FDK,10,3,EPSB WARD D,ivordent@epsb.ca,53.56366712,BLA,http://ivordent.epsb.ca,-113.3903114,No,K to Gr 9,WARD 07,4,11010 - 32 Street NW,Ivor Dent School,1951,232,176,295
+70,T6L5C5,(780) 462-5496,,4,7,EPSB WARD I,tdbaker@epsb.ca,53.44793634,BLA/CHA/INT/OPP,http://tdbaker.epsb.ca,-113.4052283,No,Gr 7-9,WARD 12,9,1750 Millwoods Road East NW,T D Baker School,7570,250,7,227
+71,T6A3X4,(780) 466-0312,BGE,11,5,EPSB WARD D,forest@epsb.ca,53.54472479,,http://forestheights.epsb.ca,-113.4533524,Yes,K to Gr 6,WARD 08,4,10304 - 81 Street NW,Forest Heights School,7123,293,1,207
+72,T6X2E1,(587) 489-4716,,4,7,EPSB WARD I,janreimer@epsb.ca,53.40746822,BLA,http://janreimer.epsb.ca,-113.4534422,Yes,K to Gr 9,WARD 12,9,360 Orchard Boulevard SW,Jan Reimer School,1927,362,112,70
+73,T5W3P6,(780) 477-8202,ART,10,3,EPSB WARD D,mountroyal@epsb.ca,53.56875335,,http://mountroyal.epsb.ca/,-113.4254261,Yes,K to Gr 6,WARD 07,4,11303 - 55 Street NW,Mount Royal School,7153,8,168,312
+74,T5L1J3,(780) 455-5823,FDK,5,1,EPSB WARD A,athlone@epsb.ca,53.58830211,BLA,http://athlone.epsb.ca/,-113.5448401,Yes,K to Gr 6,WARD 02,1,12940 - 129 Street NW,Athlone School,7104,62,105,278
+75,T5P0B9,(780) 489-2600,FDK,1,1,EPSB WARD E,sherwood@epsb.ca,53.53285587,OPP,http://sherwood.epsb.ca,-113.5836972,Yes,K to Gr 6,WARD 01,5,9550 - 152 Street NW,Sherwood School,7212,91,187,527
+76,T5B1P1,(780) 479-1991,APL,10,3,EPSB WARD D,eastglen@epsb.ca,53.56781417,CLS/INT,http://eastglen.epsb.ca,-113.4454981,No,Gr 10-12,WARD 07,4,11430 - 68 Street NW,Eastglen School,7051,66,168,457
+77,T5L0Z9,(780) 455-5533,AWA/FDK,5,1,EPSB WARD C,pcharles@epsb.ca,53.57857966,,http://princecharles.epsb.ca,-113.5401604,No,K to Gr 6,WARD 02,3,12325 - 127 Street NW,Prince Charles School,7161,18,106,366
+78,T6A0B6,(780) 469-0442,BCH/IB,11,5,EPSB WARD D,mcnally@epsb.ca,53.54829216,INT/STR,http://mcnally.epsb.ca/,-113.4593675,No,Gr 10-12,WARD 08,4,8440 - 105 Avenue NW,McNally School,7058,293,1,189
+79,T5C2R8,(780) 476-5675,BCH,10,3,EPSB WARD B,kildare@epsb.ca,53.60642907,,http://kildare.epsb.ca,-113.4570801,No,K to Gr 6,WARD 07,2,7525 - 144 Avenue NW,Kildare School,7138,15,165,323
+80,T6K1Y8,(780) 462-3230,,3,7,EPSB WARD G,leeridge@epsb.ca,53.47125317,BLA/INT,http://leeridge.epsb.ca,-113.4446658,No,K to Gr 6,WARD 11,7,440 Millbourne Road East NW,Lee Ridge School,7224,20,239,275
+81,T6L3P5,(780) 462-0660,FIM,3,7,EPSB WARD G,greenview@epsb.ca,53.47384104,,http://greenview.epsb.ca,-113.4279311,No,K to Gr 6,WARD 11,7,5904 - 38 Avenue NW,Greenview School,7250,46,57,110
+82,T5R1P1,(780) 484-3381,COG,1,4,EPSB WARD E,stratford@epsb.ca,53.52003386,,http://stratford.epsb.ca,-113.584737,Yes,K to Gr 9,WARD 01,5,8715 - 153 Street NW,Stratford Elementary/Junior High School,7553,39,83,340
+83,T6J0S1,(780) 438-4200,,2,6,EPSB WARD F,westbrook@epsb.ca,53.47588075,CHA,http://westbrook.epsb.ca,-113.5395419,No,K to Gr 6,WARD 10,6,11915 - 40 Avenue NW,Westbrook School,7197,255,170,106
+84,T5R1P1,(780) 489-8020,TPM,1,4,EPSB WARD E,jgibbons@epsb.ca,53.52262328,,http://jgibbons.epsb.ca,-113.5845974,Yes,K to Gr 6,WARD 01,5,8945 - 153 Street NW,James Gibbons School,7207,39,83,370
+85,T6J1T4,(780) 436-9839,COG/FIM,2,6,EPSB WARD F,rsecord@epsb.ca,53.47702232,,http://rsecord.epsb.ca,-113.5346256,Yes,K to Gr 6,WARD 10,6,4025 - 117 Street NW,Richard Secord School,7201,110,13,130
+86,T5Y2B9,(780) 478-7706,,7,3,EPSB WARD B,bannerman@epsb.ca,53.60503,ISP/STR,http://bannerman.epsb.ca,-113.3787147,Yes,K to Gr 6,WARD 04,2,14112 - 23 Street NW,Bannerman School,7253,105,210,251
+87,T5T4E9,(780) 487-1777,COG,8,4,EPSB WARD E,lymburn@epsb.ca,53.50560259,INT,http://lymburn.epsb.ca,-113.6467001,Yes,K to Gr 6,WARD 05,5,18710 - 72 Avenue NW,Lymburn School,7269,135,97,98
+88,T5B3W4,(780) 477-8742,FDK,10,3,EPSB WARD D,delton@epsb.ca,53.5758487,PKP/BLA/OPP,http://delton.epsb.ca,-113.4785028,No,K to Gr 6,WARD 07,4,12126 - 89 Street NW,Delton School,7118,42,155,874
+89,T6H3N8,(780) 434-1362,BAR,2,5,EPSB WARD F,malmo@epsb.ca,53.48522333,,http://malmo.epsb.ca,-113.5291997,Yes,K to Gr 6,WARD 10,6,4716 - 115 Street NW,Malmo School,7186,148,197,408
+90,T6A1Y3,(780) 466-4116,,11,5,EPSB WARD D,goldbar@epsb.ca,53.54940948,BLA,http://goldbar.epsb.ca/,-113.4133851,Yes,K to Gr 6,WARD 08,4,10524 - 46 Street NW,Gold Bar School,7127,239,30,105
+91,T5X3A9,(780) 456-4488,,6,2,EPSB WARD A,lorelei@epsb.ca,53.62416365,INT/OPP,http://lorelei.epsb.ca,-113.5018692,No,K to Gr 6,WARD 03,1,16230 - 103 Street NW,Lorelei School,7242,191,236,261
+92,T6L6P5,(780) 469-0470,PAP,4,7,EPSB WARD I,kchegwin@epsb.ca,53.46258518,BLA/STR,http://katechegwin.epsb.ca,-113.4150665,No,Gr 7-9,WARD 12,9,3119 - 48 Street NW,Kate Chegwin School,7574,77,65,241
+93,T5R5A4,(780) 484-3263,ART,1,4,EPSB WARD E,afton@epsb.ca,53.52661921,,http://afton.epsb.ca,-113.6095805,Yes,K to Gr 6,WARD 01,5,16604 - 91 Avenue NW,Afton School,7192,92,93,527
+94,T6J2C1,(780) 413-2211,,2,6,EPSB WARD F,vbarford@epsb.ca,53.47359199,CHA/LIT,http://vbarford.epsb.ca,-113.5423226,No,Gr 7-9,WARD 10,6,32 Fairway Drive NW,Vernon Barford School,7557,255,170,78
+95,T5R5B3,(780) 483-3415,BCH/PAP,1,5,EPSB WARD E,parkview@epsb.ca,53.5270171,INT,http://parkview.epsb.ca,-113.568468,No,K to Gr 9,WARD 01,5,14313 - 92 Avenue NW,Parkview School,7531,32,115,136
+96,T6B2E2,(780) 469-5339,,11,5,EPSB WARD G,claratyner@epsb.ca,53.53096417,,http://claratyner.epsb.ca,-113.4354656,No,K to Gr 6,WARD 08,7,9420 Ottewell Road NW,Clara Tyner School,7193,23,123,205
+97,T5M1P8,(780) 455-2008,IBP,9,5,EPSB WARD C,coronation@epsb.ca,53.5550956,,http://coronation.epsb.ca,-113.560816,Yes,K to Gr 6,WARD 06,3,10925 - 139 Street NW,Coronation School,7115,14,195,357
+98,T6M2L2,(780) 489-7277,,8,4,EPSB WARD E,makostek@epsb.ca,53.48960175,,http://michaelakostek.epsb.ca/,-113.6506412,No,K to Gr 6,WARD 05,5,5303 - 190 Street NW,Michael A Kostek Elementary School,7281,399,26,66
+99,T6C3G6,(780) 466-8573,SPA,3,5,EPSB WARD G,donnan@epsb.ca,53.51445764,,http://donnan.epsb.ca,-113.460702,Yes,K to Gr 6,WARD 11,7,7803 - 87 Street NW,Donnan School,7505,374,74,354
+100,T5K2V4,(780) 488-1221,FIM/NMC,9,5,EPSB WARD D,oliver@epsb.ca,53.54381998,,http://oliver.epsb.ca/,-113.5246241,Yes,K to Gr 9,WARD 06,4,10227 - 118 Street NW,Oliver School,7527,182,144,1194
+101,T5Z3X1,(780) 478-1410,,6,2,EPSB WARD A,florencehallock@epsb.ca,53.62702284,,http://florencehallock.epsb.ca/,-113.4743543,No,K to Gr 9,WARD 03,1,16437 87 St NW,Florence Hallock School,1457,106,163,157
+102,T5M2P2,(780) 448-5000,BCH/FIM/IB/SPA,5,1,EPSB WARD C,rsheppard@epsb.ca,53.55970205,CLS/INT,http://shep.epsb.ca,-113.5580803,No,Gr 10-12,WARD 02,3,13546 - 111 Avenue NW,Ross Sheppard School,7053,19,209,426
+103,T5T2Y9,(780) 481-3314,FDK,1,4,EPSB WARD C,belmead@epsb.ca,53.5256838,INT,http://belmead.epsb.ca,-113.6382297,Yes,K to Gr 6,WARD 01,3,9011 - 182 Street NW,Belmead School,7236,65,159,519
+104,T5T5X8,(587) 489-4720,COG,1,4,EPSB WARD C,michaelphair@epsb.ca,53.53107121,,http://michaelphair.epsb.ca,-113.6822079,No,Gr 7-9,WARD 01,3,9407 - 211 Street NW,Michael Phair School,1933,155,158,142
+105,T6H4C2,(780) 434-7914,,12,6,EPSB WARD F,riverbend@epsb.ca,53.49103683,CHA,http://riverbend.epsb.ca,-113.577502,No,Gr 7-9,WARD 09,6,14820 - 53 Avenue NW,Riverbend School,7538,259,178,87
+106,T5A1Y3,(780) 479-1991,,7,3,EPSB WARD B,eastglen@epsb.ca,53.60870251,BLA/CHA/STR,http://eastglen.epsb.ca,-113.4314967,No,Gr 7-9,WARD 04,2,14607 - 59 Street NW,Steele Heights School,7532,149,182,256
+107,T6B1R7,(780) 468-3000,TER,11,5,EPSB WARD G,braemar@epsb.ca,53.53146816,,http://braemar.epsb.ca,-113.4307705,Yes,Gr 8-12,WARD 08,7,9359 - 67A Street NW,Braemar School,7704,23,123,286
+108,T6W1A6,(587) 489-4708,,12,6,EPSB WARD H,donaldrgetty@epsb.ca,53.40246126,OPP,http://donaldrgetty.epsb.ca,-113.5851708,Yes,K to Gr 9,WARD 09,8,8102 Chappelle Way SW,Donald R. Getty School,1950,387,76,67
+109,T6V0C9,(780) 457-2022,,5,1,EPSB WARD A,elizabethfinch@epsb.ca,53.62071347,,http://elizabethfinch.epsb.ca/,-113.5597029,Yes,K to Gr 9,WARD 02,1,13815 160 Ave NW,Elizabeth Finch School,1459,388,121,94
+110,T5E4V6,(780) 475-8737,FDK,5,2,EPSB WARD A,lauderdale@epsb.ca,53.58776386,PKP/OPP/STR,http://lauderdale.epsb.ca,-113.5036493,No,K to Gr 6,WARD 02,1,10610 - 129 Avenue NW,Lauderdale School,7141,36,223,313
+111,T6T1J9,(780) 440-4088,,4,7,EPSB WARD G,vebaker@epsb.ca,53.48095762,,http://velmaebaker.epsb.ca/,-113.3855474,No,K to Gr 6,WARD 12,7,2845 - 43A Avenue NW,Velma E. Baker School,7280,76,135,138
+112,T5X1T4,(780) 456-7020,BCH,5,1,EPSB WARD A,caernarvon@epsb.ca,53.61021106,,http://caernarvon.epsb.ca,-113.5268227,No,K to Gr 6,WARD 02,1,14820 - 118 Street NW,Caernarvon School,7225,170,225,275
+113,T5E1N7,(780) 476-5373,BAR,10,2,EPSB WARD A,glengarry@epsb.ca,53.59623325,,http://glengarry.epsb.ca,-113.4840734,No,K to Gr 6,WARD 07,1,9211 - 135 Avenue NW,Glengarry School,7184,12,157,688
+114,T5C2A7,(780) 475-3646,FDK,10,3,EPSB WARD B,balwin@epsb.ca,53.59194519,PKP/INT/LIT/OPP,http://balwin.epsb.ca,-113.4497862,No,K to Gr 9,WARD 07,2,7055 - 132 Avenue NW,Balwin School,7502,242,156,473
+115,T6K1Y7,(780) 462-3310,COG,3,7,EPSB WARD G,http://edithrogers.epsb.ca/,53.47419232,BLA/LIT/OPP,http://edithrogers.epsb.ca,-113.4560681,No,Gr 7-9,WARD 11,7,8308 Millwoods Road NW,Edith Rogers School,7561,225,240,257
+116,T5E0J8,(780) 475-1929,FDK,10,2,EPSB WARD A,meeyahnoh@epsb.ca,53.58723073,CLS/INT,http://meeyahnoh.epsb.ca,-113.4842676,Yes,K to Gr 6,WARD 07,1,9228 - 128A Avenue NW,Mee-Yah-Noh School,7149,38,152,484
+117,T6W0S7,(587) 489-4704,,12,6,EPSB WARD H,margaretannarmour@epsb.ca,53.42747156,INT,http://margaretannarmour.epsb.ca/,-113.6036697,Yes,K to Gr 9,WARD 09,8,3815 Allan Drive SW,Dr. Margaret-Ann Armour School,1934,306,78,110
+118,T5E5B9,(780) 453-1576,BCH/PAP,5,2,EPSB WARD A,rosslyn@epsb.ca,53.5924951,BLA/BAO/INT,http://rosslyn.epsb.ca,-113.5159124,No,Gr 7-9,WARD 02,1,13215 - 113A Street NW,Rosslyn School,7535,37,224,228
+119,T6C1W5,(780) 466-2292,FIM,11,5,EPSB WARD G,holyrood@epsb.ca,53.53116793,,http://holyrood.epsb.ca,-113.4485114,No,K to Gr 6,WARD 08,7,7920 - 94 Avenue NW,Holyrood School,7514,152,91,173
+120,T5G0A6,(780) 477-1002,FDK,10,3,EPSB WARD D,norwood@epsb.ca,53.56033912,PKP,http://norwood.epsb.ca,-113.4877062,No,K to Gr 6,WARD 07,4,9520 - 111 Avenue NW,Norwood School,7156,42,130,1224
+121,T6X2C1,(587) 489-4722,,4,7,EPSB WARD I,shaunamayseneca@epsb.ca,53.41143015,,http://shaunamayseneca.epsb.ca,-113.4274983,Yes,K to Gr 8,WARD 12,9,2130 Wonnacott Way SW,Shauna May Seneca School,1929,218,21,79
+122,T5E0Y4,(780) 476-8671,APL/BAR,10,2,EPSB WARD A,queene@epsb.ca,53.59102533,ISP,http://queene.epsb.ca,-113.4882823,No,Gr 10-12,WARD 07,1,9425 - 132 Avenue NW,Queen Elizabeth School,7052,38,152,696
+123,T5Y2K4,(780) 473-5924,,7,3,EPSB WARD B,kirkness@epsb.ca,53.61111202,,http://kirkness.epsb.ca,-113.3871824,No,K to Gr 6,WARD 04,2,610 Kirkness Road NW,Kirkness School,7262,336,184,243
+124,T5A1P3,(780) 476-6336,,7,3,EPSB WARD B,york@epsb.ca,53.60138139,PKP/CHA,http://york.epsb.ca/,-113.4351504,Yes,K to Gr 6,WARD 04,2,13915 - 61 Street NW,York School,7198,24,181,442
+125,T6E3J9,(780) 433-7583,,3,5,EPSB WARD G,hazeldean@epsb.ca,53.50425484,PKP,http://hazeldean.epsb.ca,-113.4788134,No,K to Gr 6,WARD 11,7,6715 - 97 Street NW,Hazeldean School,7132,272,67,169
+126,T6J2G6,(780) 434-8581,FIM,2,6,EPSB WARD F,greenfield@epsb.ca,53.4722638,,http://greenfield.epsb.ca,-113.5268494,No,K to Gr 6,WARD 10,6,3735 - 114 Street NW,Greenfield School,7178,47,172,176
+127,T6A0G3,(780) 465-1299,CAR,11,5,EPSB WARD D,argyll@epsb.ca,53.53972226,,http://argyll.epsb.ca,-113.4344945,No,K to Gr 12,WARD 08,4,6859 - 100 Avenue NW,Argyll Home School Centre,349,184,125,300
+128,T6K2C6,(780) 462-7954,PAP,3,7,EPSB WARD I,danknott@epsb.ca,53.44555094,LIT/STR/INT,http://danknott.epsb.ca,-113.4548436,No,Gr 7-9,WARD 11,9,1434 - 80 Street NW,Dan Knott School,7563,118,34,165
+129,T5R2P2,(780) 408-9000,APL/IB,1,4,EPSB WARD E,jasper@epsb.ca,53.52532558,INT,http://jasperplace.epsb.ca/,-113.6036053,No,Gr 10-12,WARD 01,5,8950 - 163 Street NW,Jasper Place School,7071,92,93,462
+130,T5B0A1,(780) 477-8152,ART,10,3,EPSB WARD D,virginia@epsb.ca,53.56040623,,http://virginiapark.epsb.ca/,-113.4481825,No,K to Gr 6,WARD 07,4,7324 - 109 Avenue NW,Virginia Park School,7177,130,153,88
+131,T6L5Y6,(780) 462-4622,,3,7,EPSB WARD G,jkiniski@epsb.ca,53.47756714,BLA,http://juliakiniski.epsb.ca,-113.4061314,No,K to Gr 6,WARD 12,7,4304 - 41 Avenue NW,Julia Kiniski School,7275,125,58,126
+132,T5A1Y3,(780) 478-2927,,7,3,EPSB WARD B,mcleod@epsb.ca,53.61085408,,http://mcleod.epsb.ca,-113.4312441,No,K to Gr 6,WARD 04,2,14807 - 59 Street NW,McLeod School,7200,149,182,212
+133,T5M0S7,(780) 454-3449,IBM,9,5,EPSB WARD C,westglen@epsb.ca,53.55472224,,http://westglen.epsb.ca,-113.5416418,Yes,K to Gr 6,WARD 06,3,10950 - 127 Street NW,Westglen School,7542,164,198,526
+134,T6V1B1,(780) 408-8209,,6,2,EPSB WARD A,kennedale@epsb.ca,53.64881013,,https://epsb.ca/programs/specializedprograms/youngoffenders/,-113.5386185,No,Gr 4-12,WARD 03,1,18621 - 127 Street NW,Institutional Services Schools,7706,380,139,60
+135,T5Y2L6,(780) 472-0131,,7,3,EPSB WARD B,fraser@epsb.ca,53.61180674,INT,http://fraser.epsb.ca,-113.3727316,Yes,K to Gr 6,WARD 04,2,14904 - 21 Street NW,Fraser School,7273,321,210,159
+136,T6H1K4,(780) 434-6766,COG,2,5,EPSB WARD F,mpleasant@epsb.ca,53.49589576,,http://mountpleasant.epsb.ca,-113.5039365,Yes,K to Gr 6,WARD 10,6,10541 - 60A Avenue NW,Mount Pleasant School,7524,50,19,359
+137,T5T6H1,(780) 487-9290,BHE,8,4,EPSB WARD E,talmudt@epsb.ca,53.49976785,,http://talmudtorahsociety.com,-113.6218021,No,K to Gr 9,WARD 05,5,6320 - 172 Street NW,Talmud Torah School,7911,25,25,397
+138,T5E5N1,(780) 455-1836,LOG,5,1,EPSB WARD A,kensington@epsb.ca,53.59527573,LIT/INT,http://kensington.epsb.ca,-113.5274616,No,K to Gr 6,WARD 02,1,13410 - 119 Street NW,Kensington School,7137,253,49,744
+139,T5R3Y1,(780) 489-4500,,8,4,EPSB WARD E,lynnwood@epsb.ca,53.51690398,CLB/CHA/CLS,http://lynnwood.epsb.ca,-113.5878804,Yes,K to Gr 6,WARD 05,5,15451 - 84 Avenue NW,Lynnwood School,7208,241,116,310
+140,T5X2R2,(780) 476-1480,PAP,6,2,EPSB WARD A,mbutterworth@epsb.ca,53.62410515,BLA/OPP,http://marybutterworth.epsb.ca/,-113.5072594,No,Gr 7-9,WARD 03,1,16315 - 109 Street NW,Mary Butterworth School,7572,191,236,186
+141,T6H3L2,(780) 439-3323,,2,5,EPSB WARD F,abschdeaf@epsb.ca,53.49972726,DHH,http://asd.epsb.ca,-113.5242917,No,Gr 1-12,WARD 10,6,6240 - 113 Street NW,Alberta School for the Deaf,7730,260,17,141
+142,T6J1E8,(780) 413-2700,FIM/IB,2,6,EPSB WARD F,hainlay@epsb.ca,53.47924245,INT,http://ainlay.ca,-113.5186218,No,Gr 10-12,WARD 10,6,4350 - 111 Street NW,Harry Ainlay School,7059,110,13,401
+143,T5R3E6,(780) 487-0550,,8,4,EPSB WARD E,patriciah@epsb.ca,53.51100874,,http://patheights.epsb.ca,-113.6027108,No,K to Gr 6,WARD 05,5,16216 - 78 Avenue NW,Patricia Heights School,7176,208,16,89
+144,T6L5V6,(780) 463-7211,FIM,4,7,EPSB WARD I,crawford@epsb.ca,53.44103157,INT,http://crawford.epsb.ca,-113.4055905,No,K to Gr 6,WARD 12,9,4210 - 12 Avenue NW,Crawford Plains School,7263,186,7,152
+145,T5T3K1,(780) 481-4646,,8,4,EPSB WARD E,ormsby@epsb.ca,53.49810094,OPP/STR,http://ormsby.epsb.ca,-113.6392716,Yes,K to Gr 6,WARD 05,5,6323 - 184 Street NW,Ormsby School,7248,69,25,332
+146,T6E4N5,(780) 469-1315,APL/SPA,3,5,EPSB WARD G,wpwagner@epsb.ca,53.49994691,INT,http://wpwagner.epsb.ca,-113.4498514,No,Gr 10-12,WARD 11,7,6310 Wagner Road NW,W P Wagner School,7057,94,241,133
+147,T6E3Z5,(780) 439-2491,,11,5,EPSB WARD F,kingedward@epsb.ca,53.52142449,INT,http://kingedward.epsb.ca,-113.4919323,Yes,K to Gr 6,WARD 08,6,8530 - 101 Street NW,King Edward School,7517,315,12,1270
+148,T5P 3M,(780) 443-8072,,1,1,EPSB WARD E,lswested@epsb.ca,53.53251505,,http://outreach.epsb.ca,-113.6038136,No,Gr 10-12,WARD 01,5,9532 163 St NW,Learning Store West Edmonton,1022,31,93,489
+149,T6E0Z6,(780) 439-3957,APL/BGE/ISA,11,5,EPSB WARD F,strathcona@epsb.ca,53.50872624,CLB,http://strathconaschool.ca,-113.4995793,No,Gr 10-12,WARD 08,6,10450 - 72 Avenue NW,Strathcona School,7054,13,10,715
+150,T6K3Y9,(780) 463-8474,,3,7,EPSB WARD I,menisa@epsb.ca,53.44265027,INT,http://menisa.epsb.ca,-113.4488828,No,K to Gr 6,WARD 11,9,933 Knottwood Road South NW,Menisa School,7259,73,34,148
+151,T6W3A2,(587) 489-4710,,2,6,EPSB WARD H,lilafahlman@epsb.ca,53.39928113,,http://lilafahlman.epsb.ca,-113.5352535,Yes,K to Gr 9,WARD 09,8,680 Allard Boulevard SW,Dr. Lila Fahlman School,1926,291,111,135
+152,T5E2N7,(780) 476-3331,FDK/BAR,6,2,EPSB WARD A,evansdale@epsb.ca,53.6104181,PKP/BLA/BAO,http://evansdale.epsb.ca,-113.4841696,Yes,K to Gr 6,WARD 03,1,9303 - 150 Avenue NW,Evansdale School,7215,1,162,220
+153,T5A3T1,(780) 476-9590,LOG,7,3,EPSB WARD B,belmont@epsb.ca,53.59338666,CLS,http://belmont.epsb.ca,-113.3927347,No,K to Gr 6,WARD 04,2,3310 - 132A Avenue NW,Belmont School,7228,391,199,273
+154,T6X0Z5,(780) 392-3500,,4,7,EPSB WARD I,michaelstrembitsky@epsb.ca,53.41343039,,http://michaelstrembitsky.epsb.ca/,-113.4608466,No,Gr 2-9,WARD 12,9,4110 Savaryn Drive SW,Michael Strembitsky School,1578,356,45,92
+155,T6L6S7,(780) 465-9797,,3,7,EPSB WARD G,jacksonheights@epsb.ca,53.48335814,INT,http://jacksonheights.epsb.ca/,-113.4088346,No,K to Gr 6,WARD 12,7,311 Jackson Road NW,Jackson Heights Elementary,1003,275,58,120
+156,T6J0C9,(780) 434-0319,,2,6,EPSB WARD F,duggan@epsb.ca,53.47161727,PKP/INT/STR,http://duggan.epsb.ca,-113.5051699,Yes,K to Gr 6,WARD 10,6,10616 - 36A Avenue NW,Duggan School,7218,143,20,274
+157,T6G0X4,(780) 433-1390,SCA,11,5,EPSB WARD F,garneau@epsb.ca,53.52267002,,http://garneau.epsb.ca,-113.5135704,Yes,K to Gr 6,WARD 08,6,10925 - 87 Avenue NW,Garneau School,7509,286,9,1044
+158,T6H3L2,(780) 436-0465,FDK,2,5,EPSB WARD F,heritage@epsb.ca,53.49895709,PKP,http://teviemillerheritage.epsb.ca,-113.5243323,No,K to Gr 6,WARD 10,6,6240 - 113 Street NW,Tevie Miller Heritage School Program,7772,260,17,137
+159,T5H0B1,(780) 425-7600,,9,5,EPSB WARD D,riverdale@epsb.ca,53.54353438,,http://riverdale.epsb.ca,-113.4684273,Yes,K to Gr 6,WARD 06,4,8901 - 101 Avenue NW,Riverdale School,7168,352,153,435
+160,T6C3N2,(780) 466-2891,,11,5,EPSB WARD D,rutherford@epsb.ca,53.52229201,,http://rutherford.epsb.ca,-113.4691357,Yes,K to Gr 6,WARD 08,4,8620 - 91 Street NW,Rutherford School,7170,269,80,434
+161,T6G0G1,(780) 435-5560,,11,5,EPSB WARD F,belgravia@epsb.ca,53.50994551,,http://belgravia.epsb.ca,-113.5314946,No,K to Gr 6,WARD 08,6,11605 - 74 Avenue NW,Belgravia School,7107,283,17,184
+162,T5C2R4,(780) 473-4560,BCH/PAP,6,3,EPSB WARD B,londonderry@epsb.ca,53.60606758,OPP,http://londonderry.epsb.ca,-113.4498697,No,Gr 7-9,WARD 03,2,7104 - 144 Avenue NW,Londonderry School,7534,167,166,341
+163,T5J5A2,(780) 425-6753,,9,5,EPSB WARD D,centrehigh@epsb.ca,53.54332823,,http://centrehigh.epsb.ca,-113.4986002,No,Gr 10-12,WARD 06,4,100 10310 102 Avenue NW,Centre High,17,338,242,3254
+164,T5W4C7,(780) 471-2358,FDK,10,3,EPSB WARD D,montrose@epsb.ca,53.57272566,BLA,http://montrose.epsb.ca,-113.4361854,No,K to Gr 6,WARD 07,4,11931 - 62 Street NW,Montrose School,7151,226,174,413
+165,T6C2N1,(780) 466-2976,NMC,3,5,EPSB WARD G,avonmore@epsb.ca,53.51195239,CLB/CLS,http://avonmore.epsb.ca,-113.4483273,Yes,K to Gr 9,WARD 11,7,7835 - 76 Avenue NW,Avonmore School,7501,188,73,266
+166,T5N0N7,(780) 452-4740,IBM,9,5,EPSB WARD C,glenora@epsb.ca,53.5439353,,http://glenora.epsb.ca,-113.5554838,No,K to Gr 6,WARD 06,3,13520 - 102 Avenue NW,Glenora School,7126,139,145,149
+167,T5R1R7,(780) 481-6866,BGE/FIM,8,4,EPSB WARD E,rioterrace@epsb.ca,53.50869533,FIS,http://rioterrace.epsb.ca,-113.5862098,Yes,K to Gr 6,WARD 05,5,7608 - 154 Street NW,Rio Terrace Elementary School,7211,68,16,68
+168,T5R2J2,(780) 489-5200,BCH,1,4,EPSB WARD E,meadowlark@epsb.ca,53.52629223,,http://meadowlark.epsb.ca,-113.5951283,Yes,K to Gr 6,WARD 01,5,9150 - 160 Street NW,Meadowlark School,7210,27,99,423
+169,T5E6B6,(780) 476-4646,FIM,10,2,EPSB WARD A,dickinsfield@epsb.ca,53.60521975,BLA/LIT/STR,http://dickinsfield.epsb.ca,-113.4775357,No,Gr 7-9,WARD 07,1,14320 - 88A Street NW,Dickinsfield School,7559,2,161,356
+170,T5H2Z4,(780) 426-0205,FDK,9,5,EPSB WARD C,mcdougall@epsb.ca,53.55552748,PKP,http://johnamcdougall.epsb.ca,-113.5054844,Yes,K to Gr 6,WARD 06,3,10930 - 107 Street NW,John A. McDougall School,7521,181,220,1638
+171,T5A3M9,(780) 478-1139,FDK,7,3,EPSB WARD B,homesteader@epsb.ca,53.58738221,PKP/OPP,http://homesteader.epsb.ca,-113.4115319,No,K to Gr 6,WARD 04,2,4455 - 128 Avenue NW,Homesteader School,7240,233,29,322
+172,T5J1E3,(780) 429-5737,,5,1,EPSB WARD D,transitions.at.y@epsb.ca,53.57084932,,http://outreach.epsb.ca,-113.4985389,No,Gr 9-12,WARD 06,3,10211 - 105 Street NW,Transitions at the Y,325,5,151,719
+173,T5T5X9,(780) 447-3566,,1,4,EPSB WARD C,winterburn@epsb.ca,53.53489321,,http://winterburn.epsb.ca,-113.6883972,No,K to Gr 6,WARD 01,3,9527 Winterburn Road NW,Winterburn School,7569,177,158,126
+174,T6K3L4,(780) 462-8724,COG,3,7,EPSB WARD I,kameyosek@epsb.ca,53.46077634,,http://kameyosek.epsb.ca,-113.4414856,No,K to Gr 6,WARD 11,9,250 Lakewood Road East NW,Kameyosek School,7239,53,56,403
+175,T5T5X7,(587) 489-4706,,1,4,EPSB WARD C,davidthomasking@epsb.ca,53.53645947,,http://davidthomasking.epsb.ca,-113.7068335,Yes,K to Gr 9,WARD 01,3,22707 - 97 Avenue NW,David Thomas King School,1930,340,143,67
+176,T6H4E5,(780) 434-0464,,12,6,EPSB WARD F,brookside@epsb.ca,53.49219267,PKP/INT,http://brookside.epsb.ca,-113.5680439,Yes,K to Gr 6,WARD 09,6,5504 - 143 Street NW,Brookside School,7146,240,180,78
+177,T5E3J4,(780) 475-5162,COG,10,2,EPSB WARD A,northmount@epsb.ca,53.60359803,,http://northmount.epsb.ca,-113.4767256,Yes,K to Gr 6,WARD 07,1,14020 - 88A Street NW,Northmount School,7191,2,161,392
+178,T5E4W3,(780) 475-3565,FDK,5,2,EPSB WARD A,srobertson@epsb.ca,53.59688239,PKP/ISP,http://scottrobertson.epsb.ca,-113.504545,No,K to Gr 6,WARD 02,1,13515 - 107 Street NW,Scott Robertson School,7171,37,224,411
+179,T5N1H6,(780) 408-7945,APL,9,1,EPSB WARD C,ecssh@epsb.ca,53.55465915,,http://edmchristian.net,-113.5682882,No,Gr 10-12,WARD 06,3,14304-109 Avenue NW,Edmonton Christian High School,7905,7,195,289
+180,T6H0A1,(780) 434-9561,,2,5,EPSB WARD F,lycairns@epsb.ca,53.48371587,OPP,http://lycairns.epsb.ca/,-113.5007944,No,Gr 7-12,WARD 10,6,10510 - 45 Avenue NW,L Y Cairns School,7702,26,19,523
+181,T6E4W3,(780) 439-2516,LOG,11,5,EPSB WARD F,queenalex@epsb.ca,53.5138132,,http://queenalexandra.epsb.ca,-113.5045827,Yes,K to Gr 6,WARD 08,6,7730 - 106 Street NW,Queen Alexandra School,7164,13,9,1419
+182,T6G0K1,(780) 435-4163,FIM/ISA/LFI/PAP,11,5,EPSB WARD F,mckernan@epsb.ca,53.51292101,EXT,http://mckernan.epsb.ca,-113.5250443,No,K to Gr 9,WARD 08,6,11330 - 76 Avenue NW,McKernan School,7523,59,18,414
+183,T6H5G2,(780) 436-6740,FIM,12,6,EPSB WARD F,brander@epsb.ca,53.49342987,,http://brandergardens.epsb.ca,-113.5769208,Yes,K to Gr 6,WARD 09,6,14865 - 56 Avenue NW,Brander Gardens School,7226,259,178,80
+184,T5P2K2,(780) 457-2485,,1,1,EPSB WARD C,woodside@epsb.ca,53.55690029,BLA,,-113.5867475,No,Gr 2-12,WARD 01,3,11031 - 154 Street NW,Aspen Program,7707,6,188,409
+185,T6H3W8,(780) 434-1502,ACA,2,5,EPSB WARD F,grandview@epsb.ca,53.49970547,,http://grandview.epsb.ca,-113.5466221,No,Gr 1-9,WARD 10,6,6225 - 127 Street NW,Grandview Heights School,7128,277,185,26
+186,T5R0L9,(780) 483-5352,FIM,8,5,EPSB WARD E,laurier@epsb.ca,53.51692863,EXT,http://laurierheights.ca,-113.5662293,Yes,K to Gr 9,WARD 05,5,8210 - 142 Street NW,Laurier Heights School,7518,172,23,69
+187,T6K2P5,(780) 462-5112,,3,7,EPSB WARD I,ekota@epsb.ca,53.44911259,PKP/STR,http://ekota.epsb.ca,-113.4408658,Yes,K to Gr 6,WARD 11,9,1395 - Knottwood Road East NW,Ekota School,7233,117,34,260
+188,T6C1N8,(780) 465-5461,DAN/SPA/VRP,11,5,EPSB WARD G,vimyridge@epsb.ca,53.52409527,ISP,http://vimyridge.epsb.ca,-113.4527037,No,Gr 7-12,WARD 08,7,8205 - 90 Avenue NW,Vimy Ridge,7050,22,80,326
+189,T5W4C2,(780) 479-4206,ART/PAP,10,3,EPSB WARD D,highlands@epsb.ca,53.56951029,BLA/STR,http://highlands.epsb.ca/,-113.4353628,No,Gr 7-9,WARD 07,4,11509 - 62 Street NW,Highlands School,7513,8,168,385
+190,T5P3S4,(780) 484-3456,,1,1,EPSB WARD E,westlawn@epsb.ca,53.53232676,BLA/ISP/STR,http://westlawn.epsb.ca,-113.6079318,No,Gr 7-9,WARD 01,5,9520 - 165 Street NW,Westlawn School,7545,31,93,529
+191,T6E1S8,(780) 433-5746,ISA,3,5,EPSB WARD G,millcreek@epsb.ca,53.5154334,,http://millcreek.epsb.ca,-113.4812837,Yes,K to Gr 6,WARD 11,7,9735 - 80 Avenue NW,Mill Creek School,7150,156,66,770
+192,T5N2T3,(780) 452-4525,ACA,1,5,EPSB WARD E,crestwood@epsb.ca,53.53510275,CHA,http://crestwood.epsb.ca,-113.5706892,No,K to Gr 9,WARD 01,5,9735 - 144 Street NW,Crestwood School,7503,75,85,299
+193,T6L3J6,(780) 463-8680,COG,4,7,EPSB WARD I,pollard@epsb.ca,53.44867626,,http://pollardmeadows.epsb.ca,-113.4133786,No,K to Gr 6,WARD 12,9,1715 - 48 Street NW,Pollard Meadows School,7258,250,7,318
+194,T6L4J8,(780) 463-8409,COG,3,7,EPSB WARD I,meyokumin@epsb.ca,53.45025023,,http://meyokumin.epsb.ca,-113.4278516,No,K to Gr 6,WARD 11,9,5703 - 19A Avenue NW,Meyokumin School,7257,245,14,433
+195,T6M1K4,(780) 481-5590,,8,4,EPSB WARD E,centennial@epsb.ca,53.49364826,,http://centennial.epsb.ca,-113.6248434,No,K to Gr 6,WARD 05,5,17420 - 57 Avenue NW,Centennial School,7260,137,43,168
+196,T5X4M6,(780) 456-9080,FIM,6,1,EPSB WARD A,dunluce@epsb.ca,53.62220282,,http://dunluce.epsb.ca,-113.5275473,No,K to Gr 6,WARD 03,1,11735 - 162 Avenue NW,Dunluce School,7246,190,122,204
+197,T5G2E7,(780) 479-0155,,5,1,EPSB WARD C,spruceave@epsb.ca,53.56500978,BLA/LIT,http://spruceavenue.epsb.ca/,-113.4961571,No,Gr 7-9,WARD 02,3,11424 - 102 Street NW,Spruce Avenue School,7537,4,151,1304
+198,T6M2L9,(780) 444-4946,PAP,8,4,EPSB WARD E,sbsmith@epsb.ca,53.49115346,OPP/STR,http://sbrucesmith.epsb.ca/,-113.6395147,No,Gr 7-9,WARD 05,5,5545 - 184 Street NW,S Bruce Smith School,7571,61,43,96
+199,T5A0V5,(780) 476-2022,FDK,7,3,EPSB WARD B,belvedere@epsb.ca,53.59494746,,http://belvedere.epsb.ca/,-113.4360151,No,K to Gr 6,WARD 04,2,13359 - 62 Street NW,Belvedere School,7109,215,169,565
+200,T6B0N3,(780) 469-6682,,11,5,EPSB WARD G,waverley@epsb.ca,53.52392963,PKP,http://waverley.epsb.ca,-113.4335325,Yes,K to Gr 6,WARD 08,7,6825 - 89 Avenue NW,Waverley School,7189,266,75,207
+201,T6B0N3,(780) 466-2104,FIM,11,5,EPSB WARD G,kenilworth@epsb.ca,53.52388909,BLA/LIT,http://kenilworth.epsb.ca,-113.4356424,No,Gr 7-9,WARD 08,7,7005 - 89 Avenue NW,Kenilworth School,7546,266,75,216
+202,T5T1X1,(780) 487-5182,,1,4,EPSB WARD C,aldergrove@epsb.ca,53.51842255,BLA,http://aldergrove.epsb.ca/,-113.6361956,No,K to Gr 6,WARD 01,3,8525 - 182 Street NW,Aldergrove School,7234,34,94,490
+203,T6R0R8,(780) 391-2450,BCH/IB,12,6,EPSB WARD H,lillianosborne@epsb.ca,53.4573404,INT,http://lillianosborne.epsb.ca,-113.5798425,No,Gr 10-12,WARD 09,8,15312 23 Avenue NW,Lillian Osborne High School,1344,284,69,116
+204,T5P3C1,(780) 489-5100,FDK,1,1,EPSB WARD C,mayfield@epsb.ca,53.55570448,PKP/INT,http://mayfield.epsb.ca,-113.5952894,Yes,K to Gr 6,WARD 01,3,10950 - 159 Street NW,Mayfield School,7209,57,87,359
+205,T6A2M3,(780) 469-0426,LOG,11,5,EPSB WARD D,hardisty@epsb.ca,53.54832658,EXT/INT/ISP,http://hardisty.epsb.ca,-113.4287328,Yes,K to Gr 9,WARD 08,4,10534 - 62 Street NW,Hardisty School,7512,67,103,149
+206,T6T2C1,(587) 489-4724,,4,7,EPSB WARD I,svendhansen@epsb.ca,53.44557997,,http://svendhansen.epsb.ca,-113.3739774,Yes,K to Gr 9,WARD 12,9,2130 - 16 Avenue NW,Svend Hansen School,1928,328,119,108
+207,T6K3Z3,(780) 462-3322,APL,3,7,EPSB WARD I,jpercypage@epsb.ca,53.45640476,ISP,http://jpercypage.epsb.ca/,-113.4467566,No,Gr 10-12,WARD 11,9,2707 Millwoods Road NW,J Percy Page School,7075,55,238,385
+208,T5C3C7,(780) 408-9800,BCH/IB,6,3,EPSB WARD B,melazerte@epsb.ca,53.60575134,INT/ISP,http://www.melazerte.com,-113.4440633,No,Gr 10-12,WARD 03,2,6804 - 144 Avenue NW,M. E. LaZerte School,7063,167,166,335
+209,T5Y0E8,(780) 457-5435,,7,2,EPSB WARD B,donaldmassey@epsb.ca,53.62305664,,http://donaldmassey.epsb.ca/,-113.4211452,No,K to Gr 9,WARD 04,2,5435 162 Avenue NW,Dr. Donald Massey School,1456,153,183,171
+210,T5W1M8,(780) 479-4038,FDK,10,3,EPSB WARD D,beacon@epsb.ca,53.57547843,PKP,http://beaconheights.epsb.ca,-113.4139551,No,K to Gr 6,WARD 07,4,4610 - 121 Avenue NW,Beacon Heights School,7106,33,177,350
+211,T6B2A9,(780) 466-7331,BCH,11,5,EPSB WARD G,ottewell@epsb.ca,53.53159937,CLB/CHA/CLS,http://ottewell.epsb.ca,-113.4392838,No,Gr 7-9,WARD 08,7,9435 - 73 Street NW,Ottewell School,7528,23,123,172
+212,T6E3Z4,(780) 439-1368,,11,5,EPSB WARD F,academy@epsb.ca,53.5215256,STR,http://kingedward.epsb.ca,-113.4905169,No,Gr 2-12,WARD 08,6,8525-101 Street NW,The Academy at King Edward,18,315,12,1205
+213,T6R2L4,(780) 438-5011,,12,6,EPSB WARD F,ghluck@epsb.ca,53.47378607,BLA,http://georgehluck.epsb.ca/,-113.5723695,No,K to Gr 6,WARD 09,6,300 Bulyea Road NW,George H Luck School,7279,194,160,31
+214,T6R0G5,(780) 439-2717,,12,6,EPSB WARD H,estherstarkman@epsb.ca,53.44624751,,http://estherstarkman.epsb.ca/,-113.5739084,Yes,K to Gr 9,WARD 09,8,2717 Terwillegar Way NW,Esther Starkman School,1460,372,88,104
+215,T6W1T7,(587) 489-4700,,2,6,EPSB WARD H,Robertamacadams@epsb.ca,53.42061698,,http://robertamacadams.epsb.ca/,-113.5153835,Yes,K to Gr 6,WARD 09,8,2099 Blackmud Creek Drive SW,Roberta MacAdams School,1935,126,100,180
+216,T5M0V4,(780) 455-4673,FDK,5,1,EPSB WARD C,inglewood@epsb.ca,53.56608735,,http://inglewood.epsb.ca,-113.5404654,Yes,K to Gr 6,WARD 02,3,11515 - 127 Street NW,Inglewood School,7136,104,48,640
+217,T5T6M6,(587) 489-4718,,8,4,EPSB WARD E,kimhung@epsb.ca,53.50259564,,http://kimhung.epsb.ca,-113.6831185,Yes,K to Gr 8,WARD 05,5,1950 Glastonbury Boulevard NW,Kim Hung School,1925,393,142,90
+218,T6E1Z2,(780) 437-8119,,3,5,EPSB WARD G,lswhyte@epsb.ca,53.51774186,,http://outreach.epsb.ca,-113.4893353,No,Gr 10-12,WARD 11,7,10007 - 82 Avenue NW,Learning Store on Whyte,386,156,66,1316
+219,T5R3M6,(780) 489-2516,,8,4,EPSB WARD E,hillcrest@epsb.ca,53.51432772,LIT/OPP,http://hillcrest.epsb.ca,-113.6043681,No,Gr 7-9,WARD 05,5,16400 - 80 Avenue NW,Hillcrest School,7552,9,98,250
+220,T5N0W4,(780) 452-4343,IBM,9,5,EPSB WARD C,westminster@epsb.ca,53.54653486,BLA/STR,http://westminster.epsb.ca,-113.5588993,No,Gr 7-9,WARD 06,3,13712 - 104 Avenue NW,Westminster School,7543,139,196,203
+221,T5C3E5,(780) 478-1351,,6,3,EPSB WARD B,jbarnett@epsb.ca,53.61007618,PKP,http://johnbarnett.epsb.ca/,-113.4498333,No,K to Gr 6,WARD 03,2,14840 - 72 Street NW,John Barnett School,7214,167,166,288
