@@ -26,8 +26,8 @@ app = Dash(
     external_scripts=[CHROMA])
 server = app.server
 
-df1 = pd.read_csv('data\crime_count.csv')
-df2 = pd.read_csv('data\crimes_1km.csv')
+# df1 = pd.read_csv('data\crime_count.csv')
+# df2 = pd.read_csv('data\crimes_1km.csv')
 # gjson = pd.read_csv('data\crime_count.geojson')
 
 app.title = 'Edmonton Crime Analysis - Public Schools Proximity 2023'
